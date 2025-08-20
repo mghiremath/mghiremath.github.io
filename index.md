@@ -95,5 +95,5 @@ I enjoy debugging bottlenecks, shaving latency, and making infra cost-efficient 
 ## Contact {#contact}
 
 - Email: [mg.hiremath1996@gmail.com](mailto:mg.hiremath1996@gmail.com)  
-- LinkedIn: add your link  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahesh-h/)  
 - GitHub: [@mghiremath](https://github.com/mghiremath)

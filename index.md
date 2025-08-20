@@ -124,9 +124,12 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
   
   <!-- more -->
   <div class="card">
-    <h3>More Software Engineering projects on GitHub</h3>
-    <p class="blurb">I keep pushing experiments and experimental projects here.</p>
-    <p><a class="btn" href="https://github.com/mghiremath" target="_blank" rel="noopener">Visit Profile</a></p>
+    <h3>More on GitHub</h3>
+    <p class="blurb">More Software Engineering projects</p>
+    <details>
+      <p>End to end MERN stack based experimental projects.</p>
+      <p><a class="btn" href="https://github.com/mghiremath" target="_blank" rel="noopener">Visit Profile</a></p>
+    </details>
   </div>
 </div>
 

@@ -18,12 +18,13 @@ excerpt: >
 ## About {#about}
 
 I’m a backend-leaning engineer focused on high-performance, cloud-native services and ML-flavored backend work.  
-Highlights:
-- Spring Boot microservices on AWS (ECS Fargate) processing millions of records
-- Python on AWS Lambda for on-demand traffic; throughput and latency tuning
-- Complex UI workflows in ASP.NET Web Forms for medical questionnaires
 
-I like hunting bottlenecks, shaving latency, and keeping infra cost-efficient.
+Highlights:
+- Created Spring Boot microservices on AWS (ECS Fargate) processing millions of records
+- Designed Python on AWS Lambda for on-demand traffic; throughput and latency tuning
+- Developed Complex UI workflows in ASP.NET Web Forms for interactive medical questionnaires
+
+I like hunting bottlenecks, optimizing complex code, shaving latency, and keeping infra cost-efficient.
 
 ---
 
@@ -82,8 +83,8 @@ I like hunting bottlenecks, shaving latency, and keeping infra cost-efficient.
     <details>
       <summary><span>Details</span><i class="chev"></i></summary>
       <ul>
-        <li>Bigram → tiny GPT path, tokenizer logic in notebooks</li>
-        <li>Educational, step-by-step</li>
+        <li>A tiny GPT to predict names using Transformer encoders</li>
+        <li>Educational, step-by-step explanations</li>
       </ul>
       <p><a class="btn btn--primary" href="https://github.com/mghiremath/pico-gpt" target="_blank" rel="noopener">View Code</a></p>
       <div class="tags"><span>Python</span><span>Jupyter</span><span>PyTorch</span></div>
@@ -99,6 +100,7 @@ I like hunting bottlenecks, shaving latency, and keeping infra cost-efficient.
       <ul>
         <li>Trains on names; sampling CLI</li>
         <li>Progression mirrors Karpathy’s makemore</li>
+        <li>Complete breakdown of makemore using MLP, auto gradients using back-propagation, batchNorms and activations</li> 
       </ul>
       <p><a class="btn btn--primary" href="https://github.com/mghiremath/makemore" target="_blank" rel="noopener">View Code</a></p>
       <div class="tags"><span>Python</span><span>PyTorch</span><span>Jupyter</span></div>

@@ -12,6 +12,8 @@ header:
     - label: "Contact"
       url: "#contact"
       class: "btn btn--light-outline"
+    - label: "Resume"
+      url: /assets/files/MG_Hiremath_Resume.pdf
 excerpt: >
   I build cloud-native microservices (Java, Spring Boot, AWS) and tinker with deep neural networks for Quantum Physics and NLP.
   [📄 View Resume]({{ '/assets/files/MG_Hiremath_Resume.pdf' | relative_url }})

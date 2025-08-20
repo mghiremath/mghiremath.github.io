@@ -37,6 +37,10 @@ navigation:
   - title: "Contact"
     url: /#contact
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  
 # Include our custom CSS
 include:
   - _pages

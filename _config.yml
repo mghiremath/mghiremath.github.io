@@ -36,6 +36,8 @@ navigation:
     url: /#about
   - title: "Contact"
     url: /#contact
+  - title: "Resume"
+    url: /assets/files/MG_Hiremath_Resume.pdf
 
 markdown: kramdown
 kramdown:

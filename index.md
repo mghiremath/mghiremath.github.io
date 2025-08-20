@@ -21,9 +21,9 @@ excerpt: >
 ## Tech
 
 <div class="badges">
-  <span>Java  </span><span>Spring Boot  </span><span>AWS  </span><span>Python  </span>
-  <span>Node.js  </span><span>React  </span><span>Docker  </span><span>Redis  </span>
-  <span>Lambda  </span><span>SQS  </span><span>RDS  </span><span>MySQL  </span>
+  <span>Java </span><span>| Spring Boot  </span><span>| AWS  </span><span>| Python  </span>
+  <span>| Node.js  </span><span>| React  </span><span>| Docker  </span><span>| Redis  </span>
+  <span>| Lambda  </span><span>| SQS  </span><span>| RDS  </span><span>| MySQL  </span>
 </div>
 
 ---

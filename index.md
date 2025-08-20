@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hey, I’m Maheshwar Hiremath"
+title: "Hey, I’m Mahesh"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
@@ -13,7 +13,7 @@ header:
       url: "#contact"
       class: "btn btn--light-outline"
 excerpt: >
-  I build cloud-native microservices (Java, Spring Boot, AWS) and tinker with neural networks for physics and NLP.
+  I build cloud-native microservices (Java, Spring Boot, AWS) and tinker with deep neural networks for Quantum Physics and NLP.
 ---
 
 <div class="soft-gradient"></div>

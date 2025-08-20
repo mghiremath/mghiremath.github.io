@@ -1,14 +1,15 @@
 title: Maheshwar Hiremath
-description: Software Engineer — Java • Spring Boot • AWS • Microservices • Python
-url: https://<your-username>.github.io
+description: Software Engineer — Java • Spring Boot • AWS • Microservices • Python • Deep Neural Nets
+url: https://mg.hiremath.github.io
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "air"  # try: "mint", "default", "contrast", "plum"
+minimal_mistakes_skin: "mint"  # try: "mint", "default", "contrast", "plum"
 logo: /assets/img/avatar.png  # optional
 
 author:

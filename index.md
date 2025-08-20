@@ -18,12 +18,29 @@ excerpt: >
 
 <div class="soft-gradient"></div>
 
-## Tech
+## Tech Skills {#tech-skills}
 
-<div class="badges">
-  <span>Java </span><span>| Spring Boot  </span><span>| AWS  </span><span>| Python  </span>
-  <span>| Node.js  </span><span>| React  </span><span>| Docker  </span><span>| Redis  </span>
-  <span>| Lambda  </span><span>| SQS  </span><span>| RDS  </span><span>| MySQL  </span>
+<div class="tech-skills">
+  <div class="skill-group">
+    <h4>Languages / Databases</h4>
+    <p>Java, Python, JavaScript, SQL Server, MySQL, NoSQL, HTML/CSS</p>
+  </div>
+  <div class="skill-group">
+    <h4>Cloud Platforms</h4>
+    <p>AWS, Azure</p>
+  </div>
+  <div class="skill-group">
+    <h4>Frameworks</h4>
+    <p>Spring Boot, Microservices, Spring, Hibernate, Docker Containers, Redis, RESTful APIs, Node.js, React.js, Express.js, GraphQL</p>
+  </div>
+  <div class="skill-group">
+    <h4>Developer Tools</h4>
+    <p>Maven, JIRA, Git, Eclipse/Visual Studio, Jenkins, JUnit, Fortify, NexusIQ, Mockito, CI/CD, Agile methodologies</p>
+  </div>
+  <div class="skill-group">
+    <h4>Other Skills</h4>
+    <p>Test-Driven Development (TDD), Third-party API integration, Web Application Design, Performance Optimization, Security Best Practices, Troubleshooting</p>
+  </div>
 </div>
 
 ---

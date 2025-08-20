@@ -15,6 +15,17 @@ header:
 excerpt: >
   I build cloud-native microservices (Java, Spring Boot, AWS) and tinker with deep neural networks for Quantum Physics and NLP.
 ---
+## About {#about}
+
+I’m a backend-leaning engineer focused on high-performance, cloud-native services and ML-flavored backend work.  
+Highlights:
+- Spring Boot microservices on AWS (ECS Fargate) processing millions of records
+- Python on AWS Lambda for on-demand traffic; throughput and latency tuning
+- Complex UI workflows in ASP.NET Web Forms for medical questionnaires
+
+I like hunting bottlenecks, shaving latency, and keeping infra cost-efficient.
+
+---
 
 <div class="soft-gradient"></div>
 
@@ -120,18 +131,6 @@ excerpt: >
     </details>
   </div>
 </div>
-
----
-
-## About {#about}
-
-I’m a backend-leaning engineer focused on high-performance, cloud-native services and ML-flavored backend work.  
-Highlights:
-- Spring Boot microservices on AWS (ECS Fargate) processing millions of records
-- Python on AWS Lambda for on-demand traffic; throughput and latency tuning
-- Complex UI workflows in ASP.NET Web Forms for medical questionnaires
-
-I like hunting bottlenecks, shaving latency, and keeping infra cost-efficient.
 
 ---
 

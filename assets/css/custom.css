@@ -78,11 +78,11 @@
 .card-grid { display:grid; gap:1rem; grid-template-columns: repeat(auto-fill,minmax(260px,1fr)); }
 .card {
   border:1px solid rgba(0,0,0,.06);
+  overflow-wrap: anywhere;
   border-radius:16px; padding:1rem 1.1rem; background:rgba(255,255,255,.75);
   backdrop-filter: blur(8px) saturate(1.1);
   transition: transform .2s ease, box-shadow .2s ease;
   box-shadow: 0 8px 24px rgba(0,0,0,.04);
-   overflow-wrap: anywhere;
 }
 .card:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,.08); }
 .card .blurb { margin:.25rem 0 .5rem; color:#4b5563; }

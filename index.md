@@ -72,7 +72,7 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
         <li>References Carrasquilla & Melko (2017)</li>
       </ul>
       <p><a class="btn btn--primary" href="https://github.com/mghiremath/QuantumPhaseClassifier" target="_blank" rel="noopener">View Code</a></p>
-      <div class="tags"><span>Python, </span><span>PyTorch, </span><span>NumPy, </span><span>Matplotlib</span></div>
+      <div class="tags"><span>Python</span><span>PyTorch</span><span>CNN</span><span>MLP</span><span>2-d Ising Lattice</span><span>Vision Transformer</span></div>
     </details>
   </div>
 
@@ -87,7 +87,7 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
         <li>Educational, step-by-step explanations</li>
       </ul>
       <p><a class="btn btn--primary" href="https://github.com/mghiremath/pico-gpt" target="_blank" rel="noopener">View Code</a></p>
-      <div class="tags"><span>Python, </span><span>Jupyter, </span><span>PyTorch</span></div>
+      <div class="tags"><span>Multihead Attention</span><span>Transformer</span><span>PyTorch</span><span>LayerNorm</span></div>
     </details>
   </div>
 
@@ -103,7 +103,7 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
         <li>Complete breakdown of makemore using MLP, auto gradients using back-propagation, batchNorms and activations</li> 
       </ul>
       <p><a class="btn btn--primary" href="https://github.com/mghiremath/makemore" target="_blank" rel="noopener">View Code</a></p>
-      <div class="tags"><span>Python, </span><span>PyTorch, </span><span>Jupyter</span></div>
+      <div class="tags"><span>Activations</span><span>BatchNorm</span><span>BackPropagation</span><span>WaveNet</span></div>
     </details>
   </div>
 
@@ -118,7 +118,7 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
         <li>Lightweight repo with figures</li>
       </ul>
       <p><a class="btn btn--primary" href="https://github.com/mghiremath/nqs-2d-ising" target="_blank" rel="noopener">View Code</a></p>
-      <div class="tags"><span>Python, </span><span>NumPy, </span><span>Matplotlib, </span></div>
+      <div class="tags"><span>Qiskit</span><span>Restricted Boltzman Machine</span><span>Markov Chain</span><span>Quantum Wavefunction</span><span>Monte Carlo</span></div>
     </details>
   </div>
   

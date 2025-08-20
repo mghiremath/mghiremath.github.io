@@ -47,21 +47,6 @@ excerpt: >
     </details>
   </div>
 
-  <!-- nqs-2d-ising -->
-  <div class="card">
-    <h3>nqs-2d-ising</h3>
-    <p class="blurb">RBM-based Neural Quantum State for 2D Ising.</p>
-    <details>
-      <summary><span>Details</span><i class="chev"></i></summary>
-      <ul>
-        <li>RBM energy model + sampling; variational optimization</li>
-        <li>Lightweight repo with figures</li>
-      </ul>
-      <p><a class="btn btn--primary" href="https://github.com/mghiremath/nqs-2d-ising" target="_blank" rel="noopener">View Code</a></p>
-      <div class="tags"><span>Python</span><span>NumPy</span><span>Matplotlib</span></div>
-    </details>
-  </div>
-
   <!-- pico-gpt -->
   <div class="card">
     <h3>pico-gpt</h3>
@@ -92,13 +77,28 @@ excerpt: >
     </details>
   </div>
 
+  <!-- nqs-2d-ising -->
+  <div class="card">
+    <h3>nqs-2d-ising</h3>
+    <p class="blurb">RBM-based Neural Quantum State for 2D Ising.</p>
+    <details>
+      <summary><span>Details</span><i class="chev"></i></summary>
+      <ul>
+        <li>RBM energy model + sampling; variational optimization</li>
+        <li>Lightweight repo with figures</li>
+      </ul>
+      <p><a class="btn btn--primary" href="https://github.com/mghiremath/nqs-2d-ising" target="_blank" rel="noopener">View Code</a></p>
+      <div class="tags"><span>Python</span><span>NumPy</span><span>Matplotlib</span></div>
+    </details>
+  </div>
+  
   <!-- more -->
   <div class="card">
     <h3>More on GitHub</h3>
     <p class="blurb">Neural nets, physics ML, and experiments.</p>
     <details>
       <summary><span>Details</span><i class="chev"></i></summary>
-      <p>I keep pushing experiments and study projects here.</p>
+      <p>I keep pushing experiments and experimental projects here.</p>
       <p><a class="btn" href="https://github.com/mghiremath" target="_blank" rel="noopener">Visit Profile</a></p>
     </details>
   </div>

@@ -81,7 +81,33 @@ details[open] summary .chev { transform: rotate(45deg); }
 details p, details ul { margin:.4rem 0; }
 .tags { display:flex; flex-wrap:wrap; gap:.4rem; margin-top:.5rem }
 .tags span { font-size:.75rem; padding:.22rem .5rem; border-radius:999px; background:#f3f4f6 }
+.tech-skills {
+  display: grid;
+  gap: 1.25rem;
+  margin: 1rem 0 2rem;
+}
 
+.skill-group h4 {
+  margin-bottom: .3rem;
+  font-weight: 600;
+  font-size: 1rem;
+  position: relative;
+}
+
+.skill-group h4::after {
+  content: "";
+  display: block;
+  height: 3px;
+  margin-top: .2rem;
+  border-radius: 2px;
+  background: linear-gradient(to right, #6366f1, #22d3ee, transparent);
+}
+
+.skill-group p {
+  margin: 0;
+  color: #374151;
+  line-height: 1.5;
+}
 /* buttons */
 .btn { display:inline-block; padding:.5rem .8rem; border-radius:10px; border:1px solid #e5e7eb; text-decoration:none }
 .btn--primary { background:#111827; color:#fff; border-color:#111827 }

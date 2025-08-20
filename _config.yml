@@ -1,13 +1,13 @@
 title: Maheshwar Hiremath
 description: Software Engineer — Java • Spring Boot • AWS • Microservices • Python
 # Simple, official Pages theme (easy + zero build headaches)
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: mistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
 # Site URL (update with your username)
-url: https://<your-username>.github.io
+url: https://mghiremath.github.io
 
 # Navigation (shows on theme header)
 nav:

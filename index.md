@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Mahesh
+title: Maheshwar Hiremath
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"

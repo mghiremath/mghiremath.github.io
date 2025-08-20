@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "default"  # try: "mint", "default", "contrast", "plum"
+minimal_mistakes_skin: "mint"  # try: "mint", "default", "contrast", "plum"
 logo: /assets/img/avatar.jpg  # optional
 
 author:

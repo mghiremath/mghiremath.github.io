@@ -136,8 +136,8 @@ I like hunting bottlenecks, shaving latency, and keeping infra cost-efficient.
 
 ## Contact {#contact}
 
-- Email: <a href="mailto:mg.hiremath1996@gmail.com">Contact</a>  
-- GitHub: <a href="https://github.com/mghiremath" target="_blank" rel="noopener">GitHub</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/mahesh-h/">LinkedIn</a>
+- <a href="mailto:mg.hiremath1996@gmail.com">Email</a>  
+- <a href="https://github.com/mghiremath" target="_blank" rel="noopener">GitHub</a>  
+- <a href="https://www.linkedin.com/in/mahesh-h/">LinkedIn</a>
 
 <div class="soft-gradient bottom"></div>

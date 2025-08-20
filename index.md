@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: "Mahesh"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
@@ -14,6 +13,9 @@ header:
       class: "btn btn--light-outline"
 excerpt: >
   I build cloud-native microservices (Java, Spring Boot, AWS) and tinker with deep neural networks for Quantum Physics and NLP.
+  <a class="btn btn--primary" href="{{ '/assets/files/MG_Hiremath_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
+  📄 View Resume
+  </a>
 ---
 ## About {#about}
 

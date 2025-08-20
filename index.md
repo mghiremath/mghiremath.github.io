@@ -136,9 +136,8 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
 ---
 
 ## Contact {#contact}
-
+- <i class="fab fa-github"></i> [@mghiremath](https://github.com/mghiremath)
+- <i class="fab fa-linkedin"></i>[@LinkedIn](https://www.linkedin.com/in/mahesh-h)
 - <a href="mailto:mg.hiremath1996@gmail.com">Email</a>  
-- <a href="https://github.com/mghiremath" target="_blank" rel="noopener">GitHub</a>  
-- <a href="https://www.linkedin.com/in/mahesh-h/">LinkedIn</a>
 
 <div class="soft-gradient bottom"></div>

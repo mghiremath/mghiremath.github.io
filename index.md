@@ -64,60 +64,54 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
 ---
 
 ## Projects {#projects}
-<!-- Electronics Services Management System -->
-<div class="card">
-  <h3>Electronics Services Management System</h3>
-  <p class="blurb">Web app for managing repair jobs, devices, parts, and service workflow.</p>
-  <details>
-    <summary><span>Details</span><i class="chev"></i></summary>
-    <ul>
-      <li>Ticketing for repairs, customer/device intake, status tracking</li>
-      <li>Parts & inventory notes, technician workflow</li>
-      <li>Clean, developer-friendly structure</li>
-    </ul>
-    <p>
-      <a class="btn btn--primary" href="https://github.com/mghiremath/Electronics-service-management-system" target="_blank" rel="noopener">View Code</a>
-    </p>
-    <div class="tags"><span>Full-stack</span><span>Web App</span><span>CRUD</span></div>
-  </details>
-</div>
-
-<!-- TimeWise Calendar App -->
-<div class="card">
-  <h3>TimeWise Calendar App</h3>
-  <p class="blurb">Personal scheduling app with task/events view and streamlined UX.</p>
-  <details>
-    <summary><span>Details</span><i class="chev"></i></summary>
-    <ul>
-      <li>Calendar + tasks in a single timeline</li>
-      <li>Fast add/edit for events, reminders</li>
-      <li>Mobile-friendly layout</li>
-    </ul>
-    <p>
-      <a class="btn btn--primary" href="https://github.com/mghiremath/TimeWise_Calendar_App" target="_blank" rel="noopener">View Code</a>
-    </p>
-    <div class="tags"><span>Calendar</span><span>Tasks</span><span>UI/UX</span></div>
-  </details>
-</div>
-
-<!-- MET Museum App -->
-<div class="card">
-  <h3>MET Museum App</h3>
-  <p class="blurb">Client for The Met’s Open Access collection (browse/search artworks).</p>
-  <details>
-    <summary><span>Details</span><i class="chev"></i></summary>
-    <ul>
-      <li>Uses The Met’s Open Access API/CSV data</li>
-      <li>Artwork search, details view, and images where permitted</li>
-      <li>Focus on clean data handling and display</li>
-    </ul>
-    <p>
-      <a class="btn btn--primary" href="https://github.com/mghiremath/MET_Museum_App" target="_blank" rel="noopener">View Code</a>
-    </p>
-    <div class="tags"><span>API</span><span>Open Data</span><span>Frontend</span></div>
-  </details>
-</div>
 <div class="card-grid">
+    <!-- Electronics Services Management System -->
+  <div class="card">
+    <h3>Electronics Services Management System</h3>
+    <p class="blurb">Web app for managing repair jobs, devices, parts, and workflow.</p>
+    <details>
+      <summary><span>Details</span><i class="chev"></i></summary>
+      <ul>
+        <li>Ticketing for repairs, device/customer intake, status tracking</li>
+        <li>Parts & inventory management</li>
+        <li>Technician workflow optimization</li>
+      </ul>
+      <p><a class="btn btn--primary" href="https://github.com/mghiremath/Electronics-service-management-system" target="_blank" rel="noopener">View Code</a></p>
+      <div class="tags"><span>Full-stack</span><span>Web App</span><span>CRUD</span></div>
+    </details>
+  </div>
+
+  <!-- TimeWise Calendar App -->
+  <div class="card">
+    <h3>TimeWise Calendar App</h3>
+    <p class="blurb">Personal scheduling app with tasks and events in one timeline.</p>
+    <details>
+      <summary><span>Details</span><i class="chev"></i></summary>
+      <ul>
+        <li>Calendar + tasks in unified timeline</li>
+        <li>Quick add/edit for events and reminders</li>
+        <li>Mobile-friendly responsive design</li>
+      </ul>
+      <p><a class="btn btn--primary" href="https://github.com/mghiremath/TimeWise_Calendar_App" target="_blank" rel="noopener">View Code</a></p>
+      <div class="tags"><span>Calendar</span><span>Tasks</span><span>UI/UX</span></div>
+    </details>
+  </div>
+
+  <!-- MET Museum App -->
+  <div class="card">
+    <h3>MET Museum App</h3>
+    <p class="blurb">Client for The Met’s Open Access collection (browse/search artworks).</p>
+    <details>
+      <summary><span>Details</span><i class="chev"></i></summary>
+      <ul>
+        <li>Integrates The Met’s Open Access API</li>
+        <li>Artwork search and details view with images</li>
+        <li>Focus on clean data handling and presentation</li>
+      </ul>
+      <p><a class="btn btn--primary" href="https://github.com/mghiremath/MET_Museum_App" target="_blank" rel="noopener">View Code</a></p>
+      <div class="tags"><span>API</span><span>Open Data</span><span>Frontend</span></div>
+    </details>
+  </div>
   <!-- QuantumPhaseClassifier -->
   <div class="card">
     <h3>QuantumPhaseClassifier</h3>

@@ -44,6 +44,10 @@ I like hunting bottlenecks, optimizing complex code, shaving latency, and keepin
     <p>AWS, Azure</p>
   </div>
   <div class="skill-group">
+    <h4>Machine Learning & Deep Learning</h4>
+    <p>Representation learning, attention-based architectures, spatial feature extraction, inductive bias analysis, Convolutional Neural Network, Multi-Layer Perceptron, (Vision) Transformer</p>
+  </div>
+  <div class="skill-group">
     <h4>Frameworks</h4>
     <p>Spring Boot, Microservices, Spring, Hibernate, Docker Containers, Redis, RESTful APIs, Node.js, React.js, Express.js, GraphQL</p>
   </div>
